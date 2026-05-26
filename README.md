@@ -5,7 +5,6 @@ Centralized showcase of enterprise-level Machine Learning pipelines, advanced de
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Gradient_Boosting-208080?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optimization-Optuna_Bayesian-4B0082?style=for-the-badge)
 
 ---
 
@@ -60,6 +59,6 @@ Data-Science-and-AI-Portfolio/
 
 ## 📬 Professional Contact Matrix
 
-* **LinkedIn Profile:** [Connect on LinkedIn](www.linkedin.com/in/mohammed-abdullah-sabry-94bb99396)
+* **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/mohammed-abdullah-sabry-94bb99396)
 * **Kaggle Personal Hub:** [Follow on Kaggle](https://www.kaggle.com/engmohamed1)
 * **Email Communication:** mohamedabdalesabry1@gmail.com
