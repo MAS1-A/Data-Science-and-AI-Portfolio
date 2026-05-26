@@ -1,8 +1,8 @@
-# 🌌 Production-Grade Data Science & AI Portfolio
+# Production-Grade Data Science & AI Portfolio
 
 Centralized showcase of enterprise-level Machine Learning pipelines, advanced deep architectures, and scalable automated optimization workflows.
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![LightGBM](https://img.shields.io/badge/Machine_Learning-LightGBM_Gradient_Boosting-0284c7?style=flat-square) ![Optuna](https://img.shields.io/badge/Optimization-Optuna_Bayesian-4B0082?style=flat-square) ![Data Scale](https://img.shields.io/badge/Data_Scale-5M_Records-success?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
 
 ---
 
