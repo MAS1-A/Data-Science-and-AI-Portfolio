@@ -1,8 +1,9 @@
-#  Production-Grade Data Science & AI Portfolio
+# 🌌 Production-Grade Data Science & AI Portfolio
 
 Centralized showcase of enterprise-level Machine Learning pipelines, advanced deep architectures, and scalable automated optimization workflows.
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![LightGBM](https://img.shields.io/badge/Machine_Learning-LightGBM_Gradient_Boosting-0284c7?style=flat-square) ![Optuna](https://img.shields.io/badge/Optimization-Optuna_Bayesian-4B0082?style=flat-square) ![Data Scale](https://img.shields.io/badge/Data_Scale-5M_Records-success?style=flat-square)
+
 ---
 
 ## 📌 Professional Overview
@@ -15,6 +16,7 @@ A specialized data scientist and AI systems engineer focused on constructing hig
 | Project Name | Core Technology Stack | Modeling Tasks & Paradigm | Interactive Artifacts |
 | :--- | :--- | :--- | :--- |
 | **[🔥 Anatomy of Burnout (5M Rows Pipeline)](./Anatomy-of-Burnout)** | Python, LightGBM, Optuna, SQLite, Scikit-Learn | • Multi-Class Classification<br>• Continuous Scale Regression | [🌐 Live Kaggle Notebook](https://www.kaggle.com/code/engmohamed1/anatomy-of-burnout-eda-dual-ml) |
+| **[🫀 Heart Disease Prediction (10-Model Benchmark)](./Heart-Disease-Diagnostic-Benchmark)** | Python, LightGBM, XGBoost, SHAP, Scikit-Learn | • Multi-Model Benchmark<br>• Explainable AI (XAI) | [🌐 Live Kaggle Notebook](https://www.kaggle.com/code/engmohamed1/heart-disease-prediction-comparison-of-10-models) |
 
 ---
 
@@ -25,13 +27,17 @@ Below is the production directory schema demonstrating the modular decoupling of
 ```text
 Data-Science-and-AI-Portfolio/
 │
-├── .gitignore                      # Environment and cache pruning filters
-├── LICENSE                         # MIT open-source compliance standard
-├── README.md                       # Portfolio master control landing page
+├── .gitignore                         # Environment and cache pruning filters
+├── LICENSE                            # MIT open-source compliance standard
+├── README.md                          # Portfolio master control landing page
 │
-└── Anatomy-of-Burnout/             # Multi-Task Digital Burnout Framework
-    ├── Anatomy_of_Burnout_EDA.ipynb # Comprehensive notebook execution script
-    └── README.md                   # Granular markdown report & error diagnostics
+├── Anatomy-of-Burnout/                # Project 1: Digital Burnout Framework
+│   ├── Anatomy_of_Burnout_EDA.ipynb   # Execution script
+│   └── README.md                      # Granular report & diagnostics
+│
+└── Heart-Disease-Diagnostic-Benchmark/ # Project 2: Cardiac Risk Benchmark
+    ├── heart_disease_diagnostic_benchmark.ipynb # Evaluation script
+    └── README.md                      # Multi-model analytics & SHAP report
 ```
 
 ---
@@ -44,9 +50,9 @@ Data-Science-and-AI-Portfolio/
 * **Bayesian Synthesis:** Dynamic hyperparameter spaces navigation utilizing `Optuna` paired with stateful `SQLite` tracking storage.
 
 ### 📊 Big Data Engineering & Core Analytics
-* **Defensive Optimization:** Enforcing algorithmic stabilization via runtime type memory downcasting (`float32` / `int8`), cutting cache overhead.
+* **Defensive Optimization:** Enforcing algorithmic stabilization via runtime type memory downcasting (`float32` / `int8`), cutting cache overhead by up to 60%.
 * **Predictive Imputation Infrastructure:** Deploying intermediate iterative sub-models to estimate missing data vectors without inducing distribution skew.
-* **Advanced Visual Analytics:** High-resolution spatial 3D visualization, conditional probability topographies via stacked fractional KDEs, and hierarchical feature clustering.
+* **Explainable AI (XAI):** Unveiling complex ensemble architectures via global population profiling (Beeswarm) and local decision path analysis (Waterfall) using `SHAP Values`.
 
 ### 💻 Algorithmic Problem Solving & Mathematics
 * **Highly-Optimized Execution:** Fluent backend modeling in `Python` and architectural problem-solving leveraging `C++` with the Standard Template Library (`STL`).
